@@ -1,0 +1,22 @@
+{
+  "name": "backo_opens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roggiedc/BO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roggiedc/BO/issues"
+  },
+  "homepage": "https://github.com/roggiedc/BO#readme",
+  "dependencies": {
+    "string_decoder": "^1.1.1"
+  }
+}
