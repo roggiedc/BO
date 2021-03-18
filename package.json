@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/roggiedc/BO#readme",
   "dependencies": {
+    "@popperjs/babel-config": "^1.0.0",
+    "@popperjs/eslint-config-popper": "^1.0.0",
+    "@popperjs/test-utils": "^1.0.0",
     "animate.css": "^3.7.0",
     "ansi-regex": "^3.0.0",
     "aproba": "^2.0.0",
