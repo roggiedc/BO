@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/roggiedc/BO#readme",
   "dependencies": {
+    "animate.css": "^3.7.0",
+    "bootstrap": "^4.5.3",
+    "chart.js": "^2.9.4",
     "datatables.net": "^1.10.19",
     "string_decoder": "^1.1.1"
   }
