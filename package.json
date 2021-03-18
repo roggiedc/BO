@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/roggiedc/BO#readme",
   "dependencies": {
+    "datatables.net": "^1.10.19",
     "string_decoder": "^1.1.1"
   }
 }
