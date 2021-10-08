@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/roggiedc/BO#readme",
   "dependencies": {
-    "animate.css": "^3.7.0",
+    "animate.css": "^3.7.2",
     "bootstrap": "^4.5.3",
     "datatables.net": "^1.11.3",
     "datatables.net-bs4": "^1.11.3",
