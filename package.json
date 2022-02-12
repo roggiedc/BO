@@ -20,7 +20,7 @@
     "animate.css": "^3.7.2",
     "bootstrap": "^4.6.1",
     "datatables.net": "^1.11.3",
-    "datatables.net-bs4": "^1.11.3",
+    "datatables.net-bs4": "^1.11.4",
     "datatables.net-buttons": "^1.7.1",
     "datatables.net-buttons-bs4": "^1.7.1",
     "flag-icon-css": "^3.5.0",
