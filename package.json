@@ -26,7 +26,7 @@
     "flag-icon-css": "^4.1.7",
     "font-awesome": "^4.7.0",
     "jquery": "^3.6.0",
-    "jquery-validation": "^1.19.3",
+    "jquery-validation": "^1.19.4",
     "jquery-validation-unobtrusive": "^3.2.12",
     "popper.js": "^1.16.1-lts",
     "themify-icons": "^1.0.0"
